@@ -7,7 +7,7 @@ on:
   #   branches: [ main ]
 
 env:
-  REGISTRY: crpi-8g78jlde7l3qp3kh.cn-hangzhou.personal.cr.aliyuncs.com/aliyun_zhejingxu
+  REGISTRY: crpi-8g78jlde7l3qp3kh.cn-hangzhou.personal.cr.aliyuncs.com
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
