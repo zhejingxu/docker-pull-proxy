@@ -1,1 +1,15 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:latest
+langgenius/dify-api:0.6.11 registry.cn-hangzhou.aliyuncs.com/aliyun_zhejingxu/dify-api:0.6.11
+
+langgenius/dify-web:0.6.11 registry.cn-hangzhou.aliyuncs.com/aliyun_zhejingxu/dify-web:0.6.11
+
+postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/aliyun_zhejingxu/postgres:15-alpine
+
+redis:6-alpine registry.cn-hangzhou.aliyuncs.com/aliyun_zhejingxu/redis:6-alpine
+
+semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/aliyun_zhejingxu/weaviate:1.19.0
+
+langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/aliyun_zhejingxu/dify-sandbox:0.2.1
+
+ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/aliyun_zhejingxu/squid:latest
+
+nginx:latest registry.cn-hangzhou.aliyuncs.com/aliyun_zhejingxu/nginx:latest
