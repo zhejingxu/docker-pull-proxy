@@ -15,3 +15,5 @@ ubuntu/squid:latest crpi-8g78jlde7l3qp3kh.cn-hangzhou.personal.cr.aliyuncs.com/a
 nginx:latest crpi-8g78jlde7l3qp3kh.cn-hangzhou.personal.cr.aliyuncs.com/aliyun_zhejingxu/nginx:latest
 
 searxng/searxng:latest crpi-8g78jlde7l3qp3kh.cn-hangzhou.personal.cr.aliyuncs.com/aliyun_zhejingxu/searxng:latest
+
+mysql:8.0.39 crpi-8g78jlde7l3qp3kh.cn-hangzhou.personal.cr.aliyuncs.com/aliyun_zhejingxu/mysql:8.0.39
